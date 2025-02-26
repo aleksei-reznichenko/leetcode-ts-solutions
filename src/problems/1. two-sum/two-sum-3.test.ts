@@ -1,4 +1,4 @@
-import { describe, expect, test } from 'vitest'
+import { describe, expect, test } from '@jest/globals'
 import { twoSum3 } from './two-sum-3'
 
 describe('twoSum3', () => {
