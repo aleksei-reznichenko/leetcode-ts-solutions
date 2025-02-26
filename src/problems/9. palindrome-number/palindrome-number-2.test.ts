@@ -1,4 +1,4 @@
-import { describe, expect, test } from 'vitest'
+import { describe, expect, test } from '@jest/globals'
 import { isPalindrome2 } from './palindrome-number-2'
 
 describe('isPalindrome2', () => {
