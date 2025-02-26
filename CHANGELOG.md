@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.3.0
+
+### Minor Changes
+
+- Roman to Integer - solved
+
 ## 1.2.0
 
 ### Minor Changes
