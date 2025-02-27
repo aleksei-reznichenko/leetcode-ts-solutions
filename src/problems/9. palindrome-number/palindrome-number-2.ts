@@ -10,7 +10,6 @@
  * @param n The number to check.
  * @returns True if the number is a palindrome, false otherwise.
  */
-
 export function isPalindrome2(n: number): boolean {
   if (n < 0) return false
 
@@ -18,7 +17,7 @@ export function isPalindrome2(n: number): boolean {
   let size = Math.floor(Math.log10(num))
 
   while (size > 0) {
-    const divisor = Math.pow(10, size)
+    const divisor = 10 ** size
     const leftDigit = Math.floor(num / divisor)
     const rightDigit = num % 10
 
@@ -29,5 +28,6 @@ export function isPalindrome2(n: number): boolean {
     num = Math.floor((num - leftDigit * divisor) / 10)
     size -= 2
   }
+
   return true
 }
