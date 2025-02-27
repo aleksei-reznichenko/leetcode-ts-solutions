@@ -4,7 +4,12 @@
   "description": "My Typescript Solutions of Leetcode Problems",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "biome format",
+    "lint": "biome lint",
+    "check": "biome check",
+    "check-fix": "biome check --write",
+    "check-unsafe-fix": "biome check --write --unsafe"
   },
   "author": "",
   "license": "ISC",
