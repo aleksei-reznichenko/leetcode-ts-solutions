@@ -1,5 +1,5 @@
-import { longestCommonPrefix } from './longest-common-prefix'
 import { describe, expect, it } from '@jest/globals'
+import { longestCommonPrefix } from './longest-common-prefix'
 
 describe('longestCommonPrefix', () => {
   it('should return an empty string for an empty array', () => {

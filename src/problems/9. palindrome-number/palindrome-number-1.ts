@@ -7,7 +7,8 @@
  * @param x the number to check
  * @returns true if the number is a palindrome, false otherwise
  */
-export function isPalindrome1(x: number) {
+export function isPalindrome1(number: number) {
+  let x = number
   if (x < 0) return false
   if (x < 10) return true
 
@@ -16,7 +17,6 @@ export function isPalindrome1(x: number) {
   while (x > 0) {
     digits.push(x % 10)
     x = Math.floor(x / 10)
-    console.log(x)
   }
 
   for (let i = 0; i < digits.length / 2; i++) {

@@ -8,7 +8,6 @@
  * @param target the target value
  * @returns the indices of the two numbers in the array
  */
-
 export function twoSum2(nums: number[], target: number): [number, number] {
   const valueIndexes: number[] = []
 
