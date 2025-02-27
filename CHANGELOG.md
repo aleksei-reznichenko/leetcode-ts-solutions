@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.4.2
+
+### Patch Changes
+
+- install biome, fix linting/formatting issues
+
 ## 1.4.1
 
 ### Patch Changes
