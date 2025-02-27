@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.4.3
+
+### Patch Changes
+
+- update biome config + formatting code
+
 ## 1.4.2
 
 ### Patch Changes
