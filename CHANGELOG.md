@@ -1,5 +1,17 @@
 # leetcode
 
+## 1.4.1
+
+### Patch Changes
+
+- add jsdoc
+
+## 1.4.0
+
+### Minor Changes
+
+- Longest Common Prefix - solved
+
 ## 1.3.0
 
 ### Minor Changes
