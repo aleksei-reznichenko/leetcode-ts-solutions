@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.5.0
+
+### Minor Changes
+
+- 20. Valid Parentheses - solved
+
 ## 1.4.3
 
 ### Patch Changes
