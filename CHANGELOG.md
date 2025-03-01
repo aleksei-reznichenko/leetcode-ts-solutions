@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.6.0
+
+### Minor Changes
+
+- solve Merge Two Sorted Lists
+
 ## 1.5.0
 
 ### Minor Changes
