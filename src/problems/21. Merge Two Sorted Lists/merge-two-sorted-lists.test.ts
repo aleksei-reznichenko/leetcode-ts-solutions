@@ -1,5 +1,5 @@
 import { describe, expect, test } from '@jest/globals'
-import { mergeTwoLists, ListNode } from './merge-two-sorted-lists'
+import { ListNode, mergeTwoLists } from './merge-two-sorted-lists'
 
 describe('mergeTwoLists', () => {
   test('empty lists', () => {
