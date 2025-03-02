@@ -1,16 +1,22 @@
 # leetcode
 
+## 1.7.0
+
+### Minor Changes
+
+- 26 - Remove Duplicates from Sorted Array
+
 ## 1.6.0
 
 ### Minor Changes
 
-- solve Merge Two Sorted Lists
+- 21 - Merge Two Sorted Lists
 
 ## 1.5.0
 
 ### Minor Changes
 
-- 20. Valid Parentheses - solved
+- 20 - Valid Parentheses
 
 ## 1.4.3
 
@@ -34,25 +40,25 @@
 
 ### Minor Changes
 
-- Longest Common Prefix - solved
+- 14 - Longest Common Prefix
 
 ## 1.3.0
 
 ### Minor Changes
 
-- Roman to Integer - solved
+- 13 - Roman to Integer
 
 ## 1.2.0
 
 ### Minor Changes
 
-- Palindrome Number - solve problem
+- 9 - Palindrome Number
 
 ## 1.1.1
 
 ### Patch Changes
 
-- Two Sums - update tests, minor optimisation
+- 1 - Two Sums - update tests, minor optimisation
 
 ## 1.1.0
 
