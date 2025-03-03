@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.8.0
+
+### Minor Changes
+
+- 27 - Remove Element
+
 ## 1.7.0
 
 ### Minor Changes
