@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.8.1
+
+### Patch Changes
+
+- add jsdoc, cleanup
+
 ## 1.8.0
 
 ### Minor Changes
