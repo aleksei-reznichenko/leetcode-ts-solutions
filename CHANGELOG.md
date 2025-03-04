@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.9.0
+
+### Minor Changes
+
+- 28 - Find the Index of the First Occurrence in a String
+
 ## 1.8.1
 
 ### Patch Changes
