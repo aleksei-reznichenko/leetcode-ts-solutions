@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.10.0
+
+### Minor Changes
+
+- 35 - Search Insert Position
+
 ## 1.9.0
 
 ### Minor Changes
