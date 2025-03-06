@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.11.0
+
+### Minor Changes
+
+- 58 - Length of Last Word
+
 ## 1.10.0
 
 ### Minor Changes
