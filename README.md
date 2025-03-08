@@ -1,6 +1,10 @@
 # My Typescript Solutions of Leetcode Problems
 
-> Important Note: AI was not utilized in any capacity for problem-solving—neither in hint mode nor for code generation. All problem-solving functions are entirely my own code. However, AI was employed for secondary tasks, such as generating unit tests and writing comments for each function.
+## AI Usage Policy
+
+AI was not utilized in any capacity for problem-solving—neither in hint mode nor for code generation. All problem-solving functions are entirely my own code. However, AI was employed for secondary tasks, such as generating unit tests and writing comments for each function.
+
+## Runtime metrics of functions
 
 | Problem                                                | Runtime | Beats |
 | ------------------------------------------------------ | ------- | ----- |
@@ -13,6 +17,8 @@
 | 58. Length of Last Word                                | 0ms     | 100%  |
 | 66. Plus One                                           | 0ms     | 100%  |
 
-[![Formatted with Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev/)<br/>
-[![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)<br/>
+<br>
+
+[![Formatted with Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev/)
+[![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
 [![Checked with Biome](https://img.shields.io/badge/Checked_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
