@@ -1,5 +1,7 @@
 # My Typescript Solutions of Leetcode Problems
 
+> Important Note: AI was not utilized in any capacity for problem-solving—neither in hint mode nor for code generation. All problem-solving functions are entirely my own code. However, AI was employed for secondary tasks, such as generating unit tests and writing comments for each function.
+
 | Problem                                                | Runtime | Beats |
 | ------------------------------------------------------ | ------- | ----- |
 | 20. Valid Parentheses                                  | 0ms     | 100%  |
