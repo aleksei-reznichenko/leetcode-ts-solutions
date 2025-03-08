@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.12.1
+
+### Patch Changes
+
+- update readme
+
 ## 1.12.0
 
 ### Minor Changes
