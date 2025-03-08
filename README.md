@@ -9,6 +9,7 @@
 | 28. Find the Index of the First Occurrence in a String | 0ms     | 100%  |
 | 35. Search Insert Position                             | 0ms     | 100%  |
 | 58. Length of Last Word                                | 0ms     | 100%  |
+| 66. Plus One                                           | 0ms     | 100%  |
 
 [![Formatted with Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev/)<br/>
 [![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)<br/>
