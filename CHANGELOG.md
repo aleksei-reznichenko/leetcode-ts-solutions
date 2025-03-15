@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.13.0
+
+### Minor Changes
+
+- 67 - Add Binary
+
 ## 1.12.1
 
 ### Patch Changes
@@ -10,7 +16,7 @@
 
 ### Minor Changes
 
-- solve 66 - Plus One
+- 66 - Plus One
 
 ## 1.11.0
 
