@@ -1,5 +1,11 @@
 # leetcode
 
+## 1.14.0
+
+### Minor Changes
+
+- 69 - Sqrt(x)
+
 ## 1.13.0
 
 ### Minor Changes
