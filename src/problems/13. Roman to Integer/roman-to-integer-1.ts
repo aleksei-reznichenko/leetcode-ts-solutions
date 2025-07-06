@@ -1,17 +1,17 @@
 const map = {
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   I: 1,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   V: 5,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   X: 10,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   L: 50,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   C: 100,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   D: 500,
-  // biome-ignore lint/style/useNamingConvention: <explanation>
+  // biome-ignore lint/style/useNamingConvention: mute linter
   M: 1000,
 } as const
 
