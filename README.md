@@ -18,6 +18,7 @@ AI was not utilized in any capacity for problem-solving—neither in hint mode n
 | 66. Plus One                                           | 0ms     | 100%  |
 | 67. Add Binary                                         | 0ms     | 100%  |
 | 69. Sqrt(x)                                            | 0ms     | 100%  |
+| 70. Climbing Stairs                                    | 0ms     | 100%  |
 
 <br>
 
